@@ -38,8 +38,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
+    <Folder Include="Domain\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interface\Class1.cs" />
     <Compile Include="ItemOrder.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Product.cs" />
