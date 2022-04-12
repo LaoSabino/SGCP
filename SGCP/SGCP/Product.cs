@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace SGCP.Core
 {
-    public class Promotion
+    public class Product
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public DateTime DataInicio { get; set; }
-        public DateTime DataFim { get; set; }
 
-        public decimal Desconto { get; set; }
-
+        public decimal ValorUnitario { get; set; }
     }
 }

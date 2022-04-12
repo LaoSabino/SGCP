@@ -1,0 +1,16 @@
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\bin\Debug\net6.0\SGCP.Data.deps.json
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\bin\Debug\net6.0\SGCP.Data.dll
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\bin\Debug\net6.0\SGCP.Data.pdb
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\bin\Debug\net6.0\SGCP.Core.dll
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\bin\Debug\net6.0\SGCP.Core.pdb
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\bin\Debug\net6.0\SGCP.Core.dll.config
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.csproj.AssemblyReference.cache
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.AssemblyInfoInputs.cache
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.AssemblyInfo.cs
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.csproj.CoreCompileInputs.cache
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.csproj.CopyComplete
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.dll
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\refint\SGCP.Data.dll
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Data.pdb
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\ref\SGCP.Data.dll

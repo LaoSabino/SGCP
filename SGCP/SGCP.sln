@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGCP.Core", "SGCP\SGCP.Core.csproj", "{ED8F56B8-9952-40BB-BE66-DEB3D0BCCDE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGCP.Data", "SGCP.Infra\SGCP.Data.csproj", "{AC64062C-A725-45E8-861C-EC0A0E6AEFB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED8F56B8-9952-40BB-BE66-DEB3D0BCCDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED8F56B8-9952-40BB-BE66-DEB3D0BCCDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED8F56B8-9952-40BB-BE66-DEB3D0BCCDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC64062C-A725-45E8-861C-EC0A0E6AEFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC64062C-A725-45E8-861C-EC0A0E6AEFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC64062C-A725-45E8-861C-EC0A0E6AEFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC64062C-A725-45E8-861C-EC0A0E6AEFB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

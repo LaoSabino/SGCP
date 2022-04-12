@@ -1,0 +1,7 @@
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP\bin\Debug\SGCP.Core.dll.config
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP\bin\Debug\SGCP.Core.dll
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP\bin\Debug\SGCP.Core.pdb
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP\obj\Debug\SGCP.Core.csproj.AssemblyReference.cache
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP\obj\Debug\SGCP.Core.csproj.CoreCompileInputs.cache
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP\obj\Debug\SGCP.Core.dll
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP\obj\Debug\SGCP.Core.pdb

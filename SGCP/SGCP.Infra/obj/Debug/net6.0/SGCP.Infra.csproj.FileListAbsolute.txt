@@ -1,0 +1,5 @@
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Infra.csproj.AssemblyReference.cache
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Infra.AssemblyInfoInputs.cache
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Infra.AssemblyInfo.cs
+C:\Users\jrsabinonet\source\repos\SGCP\SGCP\SGCP.Infra\obj\Debug\net6.0\SGCP.Infra.csproj.CoreCompileInputs.cache
