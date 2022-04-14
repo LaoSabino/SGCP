@@ -8,6 +8,10 @@ namespace SGCP.Core
 {
     public class Client
     {
+        public Client()
+        {
+
+        }
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }

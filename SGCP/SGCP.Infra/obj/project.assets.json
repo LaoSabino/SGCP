@@ -545,11 +545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jrsabinonet\\source\\repos\\SGCP\\SGCP\\SGCP.Infra\\SGCP.Data.csproj",
+      "projectUniqueName": "C:\\Users\\jrsabinonet\\Source\\Repos\\SGCP\\SGCP\\SGCP.Infra\\SGCP.Data.csproj",
       "projectName": "SGCP.Data",
-      "projectPath": "C:\\Users\\jrsabinonet\\source\\repos\\SGCP\\SGCP\\SGCP.Infra\\SGCP.Data.csproj",
+      "projectPath": "C:\\Users\\jrsabinonet\\Source\\Repos\\SGCP\\SGCP\\SGCP.Infra\\SGCP.Data.csproj",
       "packagesPath": "C:\\Users\\jrsabinonet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jrsabinonet\\source\\repos\\SGCP\\SGCP\\SGCP.Infra\\obj\\",
+      "outputPath": "C:\\Users\\jrsabinonet\\Source\\Repos\\SGCP\\SGCP\\SGCP.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -569,8 +569,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jrsabinonet\\source\\repos\\SGCP\\SGCP\\SGCP\\SGCP.Core.csproj": {
-              "projectPath": "C:\\Users\\jrsabinonet\\source\\repos\\SGCP\\SGCP\\SGCP\\SGCP.Core.csproj"
+            "C:\\Users\\jrsabinonet\\Source\\Repos\\SGCP\\SGCP\\SGCP\\SGCP.Core.csproj": {
+              "projectPath": "C:\\Users\\jrsabinonet\\Source\\Repos\\SGCP\\SGCP\\SGCP\\SGCP.Core.csproj"
             }
           }
         }
@@ -605,7 +605,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

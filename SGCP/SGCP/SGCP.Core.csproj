@@ -42,7 +42,7 @@
     <Folder Include="Domain\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interface\Class1.cs" />
+    <Compile Include="Interface\IRepository.cs" />
     <Compile Include="ItemOrder.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Product.cs" />
